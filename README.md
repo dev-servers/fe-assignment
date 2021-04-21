@@ -6,6 +6,7 @@ You are the owner of a movie theater in **film City,** on the Wookiee homeworld 
 
 ### Tasks
 
+-   Use provided wireframe and implement elegant web design
 -   Implement your designs using **Angular component**/ **Angular Material** and style them using **SCSS**
 -   Connect your application to the **CodeSubmit Movie Database** at https://wookie.codesubmit.io/movies
 -   For authentication pass the "Authorization: Bearer Wookie2019" header
@@ -18,9 +19,11 @@ You are the owner of a movie theater in **film City,** on the Wookiee homeworld 
 ### Evaluation Criteria
 
 -   Design implemented according to attached files using Angular Components
+-   Design must be responsive and meet all media sizes
 -   Routing implemented (list, detail) + bookmarking
 -   Connect to API - Movies retrieved, JSON parsed, grouped by category
 -   Connecting to API Search, search functionality is working
+-   Bouns: the quality of design
 -   Bonus: Use the movies backdrop image creatively
 -   Bonus: Use the movies slug for routing
 
