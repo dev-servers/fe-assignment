@@ -1,4 +1,4 @@
-## Angular - Wookie Movies
+## React - Wookie Movies
 
 ### Description
 
@@ -7,7 +7,7 @@ You are the owner of a movie theater in **film City,** on the Wookiee homeworld 
 ### Tasks
 
 -   Use provided wireframe and implement elegant web design
--   Implement your designs using **Angular component**/ **Angular Material** and style them using **SCSS**
+-   Implement your designs using **React components** and style them using **CSS**
 -   Connect your application to the **CodeSubmit Movie Database** at https://wookie.codesubmit.io/movies
 -   For authentication pass the "Authorization: Bearer Wookie2019" header
 -   Parse the API response and display the results as outlined in the design. **Group movies by category**.
@@ -18,7 +18,7 @@ You are the owner of a movie theater in **film City,** on the Wookiee homeworld 
 
 ### Evaluation Criteria
 
--   Design implemented according to attached files using Angular Components
+-   Design implemented according to attached files using React Components
 -   Design must be responsive and meet all media sizes
 -   Routing implemented (list, detail) + bookmarking
 -   Connect to API - Movies retrieved, JSON parsed, grouped by category
@@ -27,16 +27,9 @@ You are the owner of a movie theater in **film City,** on the Wookiee homeworld 
 -   Bonus: Use the movies backdrop image creatively
 -   Bonus: Use the movies slug for routing
 
-### Useful Links
-
-[Angular Docs](https://angular.io/docs)
-[Angular Material Components](https://material.angular.io/components/categories)
-
-### CodeSubmit
+### Code Submit
 
 Please organize, design, test and document your code as if it were
-going into production - then push your changes to the master branch. After you have pushed your code, you may send us email with your repo url.
+going into production - then push your changes to a github repo. After you have pushed your code, you may send us email with your repo url.
 
 All the best and happy coding,
-
-The Contactless.IO Team
